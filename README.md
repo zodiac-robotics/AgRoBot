@@ -1,6 +1,6 @@
 ## Agrobo
 
-Agrobo is an agricultural robot that is going to assist the farming process. It is used to 
+A multi-purpose rover used to assist farmers in tasks such as sapling/seed plantation, Area mapping, Soil analysis and crop maintenance.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src
+[https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
