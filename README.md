@@ -1,6 +1,8 @@
 ## Agrobo
 
-A multi-purpose rover used to assist farmers in tasks such as sapling/seed plantation, Area mapping, Soil analysis and crop maintenance.
+With the global population expected to reach a 9 billion by 2050, agricultural production must double to meet the demand.The farmers are under pressure to feed more people. With youth turning away from this profession, there is also less labour available to drive the vision forward. Here comes the use of agricultural robot.
+
+Agrobo is a multi-purpose semi-autonomus rover to assist the farmers in tasks like sapling/seed plantation, area mapping, soil analysis and crop maintenance.
 
 ![](agrobo.jpg)
 
