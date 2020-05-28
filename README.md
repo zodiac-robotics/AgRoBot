@@ -2,6 +2,8 @@
 
 A multi-purpose rover used to assist farmers in tasks such as sapling/seed plantation, Area mapping, Soil analysis and crop maintenance.
 
+![](agrobo.jpg)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
