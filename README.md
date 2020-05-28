@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages](url) and ![Image](src)
+[Link](https://guides.github.com/features/mastering-markdown/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
