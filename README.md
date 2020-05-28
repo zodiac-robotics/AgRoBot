@@ -1,6 +1,6 @@
-## Zodiac Robotics
+## Agrobo
 
-You cn use the [editor on GitHub](https://github.com/zodiac-robotics/AgRobot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Agrobo is an agricultural robot that is going to assist the farming process. It is used to 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
