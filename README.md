@@ -22,6 +22,8 @@ Agrobo is a multi-purpose semi-autonomus rover to assist the farmers in tasks li
 
 Lifeathon- a socio economic hackathon was the event that brought AgRobo to life. A funding of Rs 20,000/- was received for the development of the prototype. Being one of the winners of Lifeathon, we were selected for the Idea fest which was conducted by Kerala Startup Mission. We were again awarded with Rs 25,000/- for further development of the product. We were then selected for a program called "Fail fast or Succeed Program" which was conducted by the Kerala Startup Mission. We were assigned two mentors for turning the prototype into a product.
 
+![](lifeathon.jpeg)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
